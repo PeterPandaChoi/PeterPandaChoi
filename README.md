@@ -1,4 +1,12 @@
-### Hi there 👋
+### Nice to Meet You
+Welcome to Peter Panda's page.
+💼**I am a prospective Pentester (or ethical hacker), Majored in C0mput3r Sc!enc3, living in 🇰🇷South Korea.**
+I am also an 🕹️Indie Game Dev. specialized in developing 📱Mobile 2D Game.
+
+<h3>Preferred Langs</h3>
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C#](https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat)
+
 
 <!--
 **PeterPandaChoi/PeterPandaChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
