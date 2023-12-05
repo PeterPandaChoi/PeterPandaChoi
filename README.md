@@ -1,11 +1,27 @@
-### Nice to Meet You
+## Nice to Meet You
 Welcome to Peter Panda's page.
 💼**I am a prospective Pentester (or ethical hacker), Majored in Computer Science, living in South Korea.**
 I am also an 🕹️Indie Game Dev. specialized in developing 📱Mobile 2D Game.
 
-<h3>Preferred Langs</h3>
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C#](https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat)
+
+## Preferred Langs
+1. C# / Java
+2. Python
+3. PHP
+4. SQL (injection)
+
+
+## Readable Langs
+1. C/C++
+2. html/css/Javascript
+
+
+## Experienced OS
+1. Windows(xp, 7, 8, 10)
+2. MacOS (Big Sur)
+3. Linux (Ubuntu)
+4. iOS and Android
+
 
 
 <!--
