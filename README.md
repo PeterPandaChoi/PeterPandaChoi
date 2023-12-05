@@ -1,6 +1,6 @@
 ### Nice to Meet You
 Welcome to Peter Panda's page.
-💼**I am a prospective Pentester (or ethical hacker), Majored in C0mput3r Sc!enc3, living in 🇰🇷South Korea.**
+💼**I am a prospective Pentester (or ethical hacker), Majored in Computer Science, living in South Korea.**
 I am also an 🕹️Indie Game Dev. specialized in developing 📱Mobile 2D Game.
 
 <h3>Preferred Langs</h3>
