@@ -19,7 +19,12 @@ I am also an 🕹️Indie Game Dev. specialized in developing 📱Mobile 2D Game
 3. Linux (Ubuntu)
 4. iOS and Android
 
-
+## 🔭 Projects Working on 
+1. SQLi Automation (Python)
+   1. Union
+   2. Error Based
+   3. Blind
+  
 
 
 <!--
