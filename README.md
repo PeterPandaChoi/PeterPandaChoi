@@ -4,23 +4,21 @@ Welcome to Peter Panda's page.
 I am also an 🕹️Indie Game Dev. specialized in developing 📱Mobile 2D Game.
 
 
-## Preferred Langs
+## Langs
 1. C# / Java
 2. Python
 3. PHP
 4. SQL (injection)
+5. html/css/Javascript
+6. C/C++
 
 
-## Readable Langs
-1. C/C++
-2. html/css/Javascript
-
-
-## Experienced OS
-1. Windows(xp, 7, 8, 10)
+## OS (Experienced)
+1. Windows(98, xp, 7, 8, 10)
 2. MacOS (Big Sur)
 3. Linux (Ubuntu)
 4. iOS and Android
+
 
 
 
