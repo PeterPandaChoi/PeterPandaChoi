@@ -20,11 +20,8 @@ I am also an 🕹️Indie Game Dev. specialized in developing 📱Mobile 2D Game
 4. iOS and Android
 
 ## 🔭 Projects Working on 
-1. SQLi Automation (Python)
-   1. Union
-   2. Error Based
-   3. Blind
-  
+1. SQLi Automation (Python) - Union, Error Based, Blind, Package(Automated Detect and Execution)
+   
 
 
 <!--
