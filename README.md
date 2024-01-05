@@ -9,7 +9,7 @@ Welcome to Peter Panda's page.
 1. C# / Java
 2. Python
 3. PHP
-4. SQL (injection)
+4. SQL
 5. html/css/Javascript
 6. C/C++
 
